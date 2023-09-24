@@ -8,7 +8,7 @@ app = Flask(__name__)
 # defining app route
 
 
-@app.route('/listRespo', methods=['GET', 'POST'])
+@app.route('/repos', methods=['GET', 'POST'])
 def listRespo():
     data = request.get_json()
     if 'username' in data and 'token' in data:
