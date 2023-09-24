@@ -1,0 +1,15 @@
+.navbar {
+  height: 70px;
+  width: 100%;
+  background-color: black;
+}
+.heading_sec {
+  height: 100%;
+  width: 100%;
+  margin-top: 2.5rem;
+  padding: 0px;
+}
+.heading {
+  color: #ffffff;
+  margin: auto;
+}

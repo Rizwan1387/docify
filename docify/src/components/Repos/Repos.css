@@ -1,0 +1,43 @@
+.cart_outer_div {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  margin: 0px;
+  background-color: black;
+}
+.cart_heading {
+  height: 100px;
+  width: 100%;
+  border: 1px solid transparent;
+  margin: 0px;
+  padding: 0px;
+}
+.cart_inner_div {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 1200px;
+  background-color: black;
+  border: 1px solid transparent;
+  margin: 2rem auto auto auto;
+}
+.card {
+  cursor: pointer;
+  width: 250px;
+  height: 60px;
+  background-color: rgb(139 92 246);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05); /* Add a scaling effect on hover */
+  box-shadow: 0 8px 16px rgba(164, 53, 244, 0.1),
+    0 12px 30px rgba(164, 53, 244, 0.1); /* Modify the box shadow on hover */
+}
