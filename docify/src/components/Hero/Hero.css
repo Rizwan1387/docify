@@ -29,7 +29,7 @@
 }
 .input_text_boxes {
   height: 100%;
-  width: 100%;
+  width: 200%;
   display: flex;
   text-align: center;
 }

@@ -35,14 +35,14 @@ function Hero() {
       <div className="content_sec">
         <div className="content_head">
           <h1 className="head1 text-6xl text-violet-500 font-bold my-3">
-            Testing & Observability Platform
+            AI Documentation Platform
           </h1>
           <h1 className="head2 text-5xl text-violet-50 font-bold my-3">
-            for LLM Apps
+            for Github Repos
           </h1>
           <p className="text-violet-50 my-10">
-            From identifying an issue to evaluating the solution, Baserun helps
-            AI teams ship your LLM apps with confidence and speed
+            Docify Automates the process of Generating documentation for your
+            github Repos effortlessly leveraging AI capabalities.
           </p>
         </div>
         <div className="content_btn">
