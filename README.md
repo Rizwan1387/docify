@@ -14,21 +14,24 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 ## Who's on your team?
 *List the full names,  email address & Github username of your teammates*
 
-1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
-2. 
-3.
-4.
+1. **Abdul Baseer Mohammed**  || **abdulbaseer@ku.edu** || **abdulbaseer657**
+2. **Asadullah Khan**  || **asadullahkhan@ku.edu** || **asadsk8r02**
+3. **Syed Mustafa**  || **s918m250@ku.edu** || **syed6268**               
+4. **Rizwan Khan**  || **rk5722484@ku.edu** || **Rizwan1386**
 5.
 
 <br /><br />
 
 
 ## What is the name of your App?
-
+Docify
 <br /><br />
 ## What does your app do?
 *Describe in a paragraph or so*
 
+We've developed Docify, an AI-powered documentation platform tailored for GitHub repositories. In response to the common challenge of maintaining up-to-date documentation, Docify automates the process, analyzing codebases and generating comprehensive documentation effortlessly. By seamlessly integrating with GitHub and providing a user-friendly interface, it streamlines onboarding for new team members and ensures consistent, accurate documentation. With Docify, you'll save time, improve collaboration, and enhance productivity, all while keeping your project's documentation always current.
+### [Live Application](https://docifyapp.onrender.com)
+Note: Live Application is working on free server. Delays are expected.
 <br /><br />
 
 
@@ -40,10 +43,9 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 - [ ]  Okta Challenge
 - [ ]  GEHA Generative AI Emergency Response Challenge
 - [ ]  Corporate Challenge (only for official company teams)
-- [ ]  College Challenge (only for teams of up to 5 CS students from the same school)
+- [🗸]  College Challenge (only for teams of up to 5 CS students from the same school)
 
 <br /><br />
-
 
 
 
