@@ -30,6 +30,10 @@ Docify
 *Describe in a paragraph or so*
 
 We've developed Docify, an AI-powered documentation platform tailored for GitHub repositories. In response to the common challenge of maintaining up-to-date documentation, Docify automates the process, analyzing codebases and generating comprehensive documentation effortlessly. By seamlessly integrating with GitHub and providing a user-friendly interface, it streamlines onboarding for new team members and ensures consistent, accurate documentation. With Docify, you'll save time, improve collaboration, and enhance productivity, all while keeping your project's documentation always current.
+Developed Docify-AI Documentation for Github, leveraging GitHub API, React, and Flask, with OpenAI integration. 
+Automated documentation generation for GitHub repositories, streamlining onboarding and collaboration
+Implemented CI/CD deployment using Github actions and azure.
+
 ### [Live Application](https://docifyapp.onrender.com)
 Note: Live Application is working on free server. Delays are expected.
 <br /><br />
